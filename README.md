@@ -1,5 +1,13 @@
 This is a Streamlit application that allows users to ask questions about an uploaded image and receive responses from a conversational AI agent. The agent uses the OpenAI GPT-3.5 Turbo model to generate answers based on the provided image and user input.
 
+<h2 align="center">📺 Demo Video</h2>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Gy9WthMdTBM" target="_blank">
+    <img src="https://img.youtube.com/vi/Gy9WthMdTBM/0.jpg" alt="Watch the demo" />
+  </a>
+</p>
+
 ## Installation
 
 1.  Clone the repository:
